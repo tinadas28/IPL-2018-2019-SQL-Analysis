@@ -5,6 +5,7 @@ IPL 2018 &amp; 2019 player performance analysis using SQL and Google BigQuery, e
 By Tina Das | Aspiring Data Analyst
 
 📌 Project Overview
+
 This project explores IPL player performance using SQL queries executed in Google BigQuery. The analysis focuses on batting runs, strike rates, boundaries, half-centuries, wickets and bowling economy rates using exported query results.
 
 🛠️ Tools & Technologies
